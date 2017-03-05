@@ -1,0 +1,4 @@
+publishDir = "docs"
+baseURL = "http://news.cafe/"
+[permalinks]
+  post = "/:year/:month/:title/"

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="545px" height="202px" viewBox="0 0 545 202" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Mobile Landscape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Mobile-Landscape" fill="#FFFFFF">
+            <polygon id="Z" transform="translate(473.000000, 133.500000) rotate(-90.000000) translate(-473.000000, -133.500000) " points="524.5 187.77269 524.461213 82.7426611 495.866785 75.5 495.677536 152.707026 454.305281 75.5946694 421.741536 80.3642085 421.5 187.128159 448.300846 191.5 448.498215 120.098099 486.393071 191.444681"></polygon>
+            <polygon id="W" points="368.376 142.384 350.376 81.904 324.456 81.904 306.456 143.104 292.488 81.904 263.976 81.904 290.04 184 318.984 184 337.128 122.08 355.272 184 383.64 184 409.704 81.904 382.056 81.904"></polygon>
+            <polygon id="E" points="250.176 184 250.176 160.24 211.296 160.24 211.296 143.824 246.432 143.824 246.432 121.36 211.296 121.36 211.296 105.232 249.888 105.232 249.888 81.904 184.512 81.904 184.512 184"></polygon>
+            <polygon id="N" points="172.329677 185.119847 172.269381 16.2958491 127.818182 8 127.818182 120.56168 68.9090909 8 12.5874738 15.6737083 12.2119968 184.103044 53.875 191 54.1818182 78.357346 113.090909 190.91273"></polygon>
+        </g>
+    </g>
+</svg>
