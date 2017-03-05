@@ -1,0 +1,31 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.header, .menu {
+  background: #222;
+}
+
+.logo__container {
+  text-align: center;
+  width: 100%;
+}
+
+.logo {
+  margin: 0 auto;
+  width: 100%;
+}
+
+#container {
+    padding: 10px;
+    min-height: -webkit-calc(100% - 100px);     /* Chrome */
+    min-height: -moz-calc(100% - 100px);     /* Firefox */
+    min-height: calc(100% - 100px);     /* native */
+}
+
+.footer {
+  background: black;
+    position: relative;
+    clear:both;
+}
